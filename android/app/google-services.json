@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500122664373",
+    "project_id": "nezamumedia",
+    "storage_bucket": "nezamumedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500122664373:android:b62f2016655d73ca8cedfc",
+        "android_client_info": {
+          "package_name": "apps.puantech.nezamumedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500122664373-qr2srn4f0vdhhcldhh01oskotel8gchs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaeVvxgqvV_UXagfHej1WG6TZHqw87-dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500122664373-qr2srn4f0vdhhcldhh01oskotel8gchs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
